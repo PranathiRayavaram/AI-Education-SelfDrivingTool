@@ -8,7 +8,7 @@ For more information on the tool, refer to .
 ## Setup and Usage Guide
 
 ### Step 1: Set Up the Environment
-1. Visit the our extensiable of [ML4Kids Scratch Platform](https://machinelearningforkids.co.uk/scratch/?url=https://machinelearningforkids.co.uk/api/scratch/fd99d1a0-b7ea-11ed-85e0-25577ec38ffce200e355-1890-4bae-9ae2-89d51a1e2999/extension3.js).
+1. Visit our extensiable of [ML4Kids Scratch Platform](https://machinelearningforkids.co.uk/scratch/?url=https://machinelearningforkids.co.uk/api/scratch/fd99d1a0-b7ea-11ed-85e0-25577ec38ffce200e355-1890-4bae-9ae2-89d51a1e2999/extension3.js).
 
 ### Step 2: Download the Project File
 1. Download the `.sb3` file provided with this repository.
